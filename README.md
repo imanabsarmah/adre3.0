@@ -2,7 +2,7 @@
 
 > Free, open-source preparation platform for the **Assam Direct Recruitment Examination (ADRE) 3rd Edition**
 
-🔗 **[Live Site → adre-prep.github.io](https://adre-prep.github.io)**
+🔗 **[Live Site → adre-prep.github.io](https://imanabsarmah.github.io/adre3.0/)**
 
 ---
 
